@@ -1,0 +1,285 @@
+@media (max-width:1164px){  
+  .service{
+        text-align: center;
+    }
+    .connect{
+        text-align: center;
+    }
+    .pre-connect{
+        text-align: center;
+    }
+    .pre-main::after{
+        content: url(/assest/images/Pie\ Graphic.png);
+        padding: 0px 25px;
+        background: white;
+        position: absolute;
+        top: 55%;
+        right: 7rem;
+        border-radius: 14px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+        border-radius: 12px;
+    
+      }
+      .team{
+        text-align: center;
+      }
+      .value{
+        text-align: center;
+      }
+}
+@media (max-width:991px){
+    .header{
+        text-align: center;
+    }
+    .banner-text h1{
+      font-size: 36px;
+      line-height: 53px;
+    }
+    .hero-text h1{
+      font-size: 36px;
+      line-height: 53px;
+    }
+    .service-head h2 {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 37px;
+      line-height: 72px;
+      font-family: 'Manrope', sans-serif;
+  }
+    .service{
+        text-align: center;
+    }
+    .connect{
+        text-align: center;
+    }
+    .pre-connect{
+        text-align: center;
+    
+}
+.connect-main{
+padding-bottom: 70px;
+}
+.connect-main::after{
+    content: url(/assest/images/connect-chart.png);
+      padding: 11px 34px;
+      background: white;
+      transform: translateY(-18px);
+      position: absolute;
+      top: 45%;
+      right: 8rem;
+      border-radius: 14px;
+      background: #FFFFFF;
+      box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+      border-radius: 12px;
+  }
+  .pre-main::after{
+    content: url(/assest/images/Pie\ Graphic.png);
+    padding: 0px 10px;
+    background: white;
+    position: absolute;
+    top: 30%;
+    right: 25rem;
+    border-radius: 14px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    display: block;
+    margin: auto;
+  }
+  .img-grid{
+    position: relative;
+    top: 0;
+  }
+  .story-text p,.story-text h2{
+    text-align: center;
+  }
+  .team h5,.team p{
+    text-align: center;
+  }
+  .value{
+    text-align: center;
+  }
+}
+@media (max-width:767px){
+  .banner-text h1{
+    font-size: 36px;
+    line-height: 53px;
+  }
+  .hero-text h1{
+    font-size: 36px;
+    line-height: 53px;
+  }
+  .service-head h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 72px;
+    font-family: 'Manrope', sans-serif;
+}
+    .header{
+        text-align: center;
+    }
+    .connect{
+        text-align: center;
+    }
+    .pre-connect{
+        text-align: center;
+    
+}
+.footer{
+  text-align: center;
+}
+.about-text{
+  text-align: center;
+}
+.testimonial{
+  text-align: center;
+}
+.pre-text{
+  text-align: center;
+}
+.connect-main{
+    padding-bottom: 70px;
+    }
+    .pre-main::after{
+        content: url(/assest/images/Pie\ Graphic.png);
+        padding: 0px 10px;
+        background: white;
+        position: absolute;
+        top: 60%;
+        right: 5rem;
+        border-radius: 14px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+        border-radius: 12px;
+    
+      }
+      .story-text p,.story-text h2{
+        text-align: center;
+      }
+      .team h5,.team h5{
+        text-align: center;
+      }
+      .team{
+        text-align: center;
+      }
+      .value{
+        text-align: center;
+      }
+}
+@media (max-width:576px){
+    .header{
+        text-align: center;
+    }
+    .service{
+        text-align: center;
+    }
+    .connect{
+        text-align: center;
+    }
+    .pre-connect{
+        text-align: center;
+    
+}
+.connect-main{
+    padding-bottom: 70px;
+    }
+    .pre-main::after{
+        content: url(/assest/images/Pie\ Graphic.png);
+        padding: 0px 10px;
+        width: auto;
+        background: white;
+        position:absolute;
+        top: 48%;
+        right: 0;
+        left: 50px;
+        border-radius: 14px;
+        background:  #FFFFFF;
+        box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+        border-radius: 12px;
+    
+      }    
+      .img-grid{
+        position: relative;
+        top: 0;
+      }
+      .story-text p,.story-text h2{
+        text-align: center;
+      }    
+      .team h5,.team h5{
+        text-align: center;
+      }
+      .team{
+        text-align: center;
+      }
+      .value{
+        text-align: center;
+      }
+}
+@media (max-width:420px){
+    .connect-main{
+        padding-bottom: 11rem;
+        }
+        .pre-main::after{
+            content: url(/assest/images/Pie\ Graphic.png);
+            padding: 0px 10px;
+            background: white;
+            position:absolute;
+            width: fit-content;
+            top: 48%;
+            right: 0;
+            left:20px;
+            border-radius: 14px;
+            background:  #FFFFFF;
+            box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+            border-radius: 12px;
+        
+          } 
+          .story-text p,.story-text h2{
+            text-align: center;
+          }
+          .team h5,.team h5{
+            text-align: center;
+          }
+          .team{
+            text-align: center;
+          }
+          .value{
+            text-align: center;
+          }       
+}
+@media (max-width:391px){
+    .pre-main::after{
+        content: url(/assest/images/Pie\ Graphic.png);
+        padding: 0px 2px;
+        width: fit-content;
+        background: white;
+        position: absolute;
+        top: 45%;
+        right: 0;
+        left: 15px;
+        border-radius: 14px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.12);
+        border-radius: 12px;
+        height: fit-content;
+    
+    }
+    .img-grid{
+        position: relative;
+        top: rem;
+      }
+      .story-text p,.story-text h2{
+        text-align: center;
+      }
+      .team h5,.team h5{
+        text-align: center;
+      }
+      .team{
+        text-align: center;
+      }
+      .value{
+        text-align: center;
+      }
+}
